@@ -1,6 +1,6 @@
 # Arquitectura-por-eventos
 
-## Actividad 1. Analisis de la comunicación 
+# Actividad 1. Analisis de la comunicación 
 Para una tienda en línea, clasifique qué procesos deberían ser síncronos, asíncronos o híbridos: consultar 
 productos, crear pedido, validar pago, enviar notificación, actualizar analítica y registrar auditoría. Justifique 
 brevemente su decisión:
@@ -22,4 +22,9 @@ brevemente su decisión:
 | Retención 24h | Eventos no recuperables para reprocesamiento o auditoría pasado ese plazo | Aumentar retención según necesidad de auditoría/recuperación |
  
 **Conclusión:** esta configuración solo es aceptable para pruebas locales. Para producción afecta directamente escalabilidad, disponibilidad y consistencia del orden de eventos.
+
+# Actividad 1. Publicaciòn y consulta de eventos.
+
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/a31d2a6d-db14-49d6-a17b-9faed47d31fe" />
+
  
