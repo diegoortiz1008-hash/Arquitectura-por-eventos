@@ -23,7 +23,7 @@ brevemente su decisión:
  
 **Conclusión:** esta configuración solo es aceptable para pruebas locales. Para producción afecta directamente escalabilidad, disponibilidad y consistencia del orden de eventos.
 
-# Actividad 1. Publicaciòn y consulta de eventos.
+# Actividad 3. Publicación y consulta de eventos.
 
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/a31d2a6d-db14-49d6-a17b-9faed47d31fe" />
 
